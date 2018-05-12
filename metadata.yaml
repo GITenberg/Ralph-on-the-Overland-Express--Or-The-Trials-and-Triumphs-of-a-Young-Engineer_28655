@@ -1,0 +1,24 @@
+_repo: Ralph-on-the-Overland-Express--Or-The-Trials-and-Triumphs-of-a-Young-Engineer_28655
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chapman, Allen
+    gutenberg_agent_id: '2575'
+    url: http://www.gutenberg.org/2009/agents/2575
+description: ''
+gutenberg_issued: '2009-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Railroads -- Juvenile fiction'
+title: Ralph on the Overland Express; Or, The Trials and Triumphs of a Young Engineer
+url: http://www.gutenberg.org/ebooks/28655
